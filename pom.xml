@@ -68,7 +68,7 @@
         <artifactId>maven-war-plugin</artifactId>
         <version>2.6</version>
         <configuration>
-          <warName>smantic-sys:war</warName><!--war包名-->
+          <warName>smantic-sys</warName><!--war包名-->
         </configuration>
       </plugin>
     </plugins>
